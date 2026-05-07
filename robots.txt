@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raji-mahmud-a.github.io/resources-v6s7mw/sitemap.xml
